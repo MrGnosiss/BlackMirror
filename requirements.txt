@@ -1,0 +1,6 @@
+requests
+shodan
+beautifulsoup4
+python-whois
+tldextract
+dnspython
